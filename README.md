@@ -7,11 +7,7 @@
 
 - 🔭 I’m currently working as an Intern at **Qualyval Consulting**
 
-- 🌱 I’m currently learning **React and AWS**
-
-- 👯 I’m looking to collaborate on **React**
-
-- 🤝 I’m looking for help with **React**
+- 🌱 I’m currently learning **Express.js**
 
 - 👨‍💻 All of my projects are available at [saumy0010.github.io](saumy0010.github.io)
 
@@ -21,7 +17,7 @@
 
 - 📄 Know about my experiences [https://linkedin.com/in/saumy0010](https://linkedin.com/in/saumy0010)
 
-- ⚡ Fun fact **I don't exist**
+- ⚡ Fun fact **What do you call fish with no eye(i)......... fsh......**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

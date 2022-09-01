@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saumy0010" alt="saumy0010" /></a> </p>
 
-- 🔭 I’m currently working as an Intern at **Qualyval Consulting**
+- 🔭 I’m currently working as an Associate Software Engineer at **Infinite Computer Solutions**
 
 - 🌱 I’m currently learning **Express.js**
 
